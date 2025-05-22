@@ -14,6 +14,79 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+  👉 Replace USERNAME below with your GitHub username!
+  👉 Update any links or descriptions as you see fit.
+-->
+
+<p align="center">
+  <img src="https://i.imgur.com/z1oWSiy.png" width="100%" alt="Banner"/>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/YourTwitter"><img width="32" src="https://i.imgur.com/OXZM1L6.png" alt="Twitter"/></a>
+  &#8287;
+  <a href="https://linkedin.com/in/YourLinkedIn"><img width="32" src="https://i.imgur.com/qiXu7b2.png" alt="LinkedIn"/></a>
+  &#8287;
+  <a href="mailto:youremail@domain.com"><img width="32" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+## 👋 Hi, I’m **Fares Fathy**  
+**Senior AI & Robotics student @ AAST**  
+– Leading CV & autonomy dev for UAV & FSAE driverless teams  
+– Financial modelling (Altman Z-score / Tobin’s Q) in MENA firms  
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="right">
+  <a href="https://github.com/USERNAME">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_title=true"/>
+  </a>
+  <a href="https://github.com/USERNAME">
+    <img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_title=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  </a>
+</p>
+
+---
+
+## 📘 My Top Projects
+
+<p align="left">
+  <a href="https://github.com/USERNAME/AAM-CV-FSAE"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=AAM-CV-FSAE&theme=react" alt="AAM-CV-FSAE"/></a>
+  <a href="https://github.com/USERNAME/Wraith-UAV-development"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Wraith-UAV-development&theme=react" alt="Wraith-UAV-development"/></a>
+  <a href="https://github.com/USERNAME/cubot"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=cubot&theme=react" alt="cubot"/></a>
+</p>
+
+---
+
+<details>
+  <summary>🗂️ Other Notable Repos</summary>
+  
+  - **ROS-Package-for-Real-Time-Camera-Image-Sharpening** – real-time image sharpening in ROS  
+  - **Docker-Practice** – AI-in-Web course exercises with Docker  
+  - **tdxbot (private)** – localization & path-planning algorithms  
+  - **ardupilot** *(fork)* – ArduPlane/Copter/Rover/Sub source  
+  - **Queue-Based-Task-Simulation** – multithreaded C++ task processor  
+  - **TurtleBot2-Ball-Manipulation-ROS** – turtle draws & logs coords  
+  - **Dataset-Splitter** – Python script for train/val image splits  
+  - **Research-Paper-Title-Generation-using-bart** – BART title gen demo  
+  - **EverGreen** – Flutter app for plant-disease diagnosis  
+  - **pygame-neat-car** – NEAT-driven car sim in Python  
+  - **Brain-CT-Image-Classification-with-RCNN** – hemorrhage vs. normal  
+  - **Train-Reservation-System** – SQL web app for booking tickets  
+  - **Sign-Language-Detection-and-Translation-using-YOLOv5**  
+  - **Robotics-task2** – ROS node for cmd_vel circle & logging  
+  - **MPG-Data-Analysis** – vehicle mpg notebook  
+  - **waiter-s-tips-prediction** – Jupyter tips-prediction model  
+  - **NaoRL** *(fork)* – Nao robot reinforcement learning  
+</details>
+
+---
+
+<sup>Last updated on: <!-- ⚡ -->  
+
 <p align="center">
   <img src="assets/BWKhB3l.gif" alt="Cool robot GIF" width="600" />
 </p>
