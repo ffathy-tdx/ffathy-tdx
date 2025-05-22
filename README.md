@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ffathy-tdx/ffathy-tdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -86,5 +84,5 @@ Here are some ideas to get you started:
 <sup>Last updated on: <!-- ⚡ -->  
 
 <p align="center">
-  <img src="assets/BWKhB3l.gif" alt="Cool robot GIF" width="600" />
+  <img src="assets/BWKhB3l.gif" alt="Cool GIF" width="100%" />
 </p>
