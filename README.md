@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="assets/BWKhB3l.gif" alt="Cool robot GIF" width="300" />
+  <img src="assets/BWKhB3l.gif" alt="Cool robot GIF" width="600" />
 </p>
