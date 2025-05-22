@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://linkedin.com/in/trdaxy"><img width="32" src="https://i.imgur.com/OQUXwNp.jpeg" alt="LinkedIn"/></a>
   &#8287;
-  <a href="ffathy2004@gmail.com"><img width="100%" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="ffathy2004@gmail.com"><img width="64" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-## 👋 Hi, I’m **Fares Fathy**  
+## Hey hey, I’m **Fares Fathy**  
 **Senior AI & Robotics student @ AAST**  
 – Leading CV & ROS for UAV SkyXperts team.  
 – CV member for AAM Driveless team  
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 ---
 
-## My Top Projects
+## My Top Projects on GitHub
 
-<p align="left">
-  <a href="https://github.com/ffathy-tdx/AAM-CV-FSAE"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=AAM-CV-FSAE&theme=react" alt="AAM-CV-FSAE"/></a>
+<p align="center">
+  <a href="https://github.com/ffathy-tdx/RCNN-Brain-CT-Image-Classification"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=RCNN-Brain-CT-Image-Classification&theme=react" alt="AAM-CV-FSAE"/></a>
   <a href="https://github.com/ffathy-tdx/Wraith-UAV-development"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=Wraith-UAV-development&theme=react" alt="Wraith-UAV-development"/></a>
   <a href="https://github.com/ffathy-tdx/cubot"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=cubot&theme=react" alt="cubot"/></a>
 </p>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>Other Notable Repos</summary>
+  <summary>Other Notable Repos I'm working on</summary>
   
   - **ROS-Package-for-Real-Time-Camera-Image-Sharpening** – real-time image sharpening in ROS  
   - **Docker-Practice** – AI-in-Web course exercises with Docker  
