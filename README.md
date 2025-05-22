@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![demo](/assets/BWKhB3l.gif)
+<p align="center">
+  <img src="assets/BWKhB3l.gif" alt="Cool robot GIF" width="300" />
+</p>
