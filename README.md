@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   - **Research-Paper-Title-Generation-using-bart** – BART title gen demo  
   - **EverGreen** – Flutter app for plant-disease diagnosis  
   - **pygame-neat-car** – NEAT-driven car sim in Python  
-  - **Brain-CT-Image-Classification-with-RCNN** – hemorrhage vs. normal  
+  - **AAM-CV-FSAE** – Computer Vision development for AAM's FSAE driverless class vehicle   
   - **Train-Reservation-System** – SQL web app for booking tickets  
   - **Sign-Language-Detection-and-Translation-using-YOLOv5**  
   - **Robotics-task2** – ROS node for cmd_vel circle & logging  
