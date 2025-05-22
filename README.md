@@ -20,32 +20,30 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/z1oWSiy.png" width="100%" alt="Banner"/>
+  <img src="https://i.imgur.com/iTjYrFT.jpeg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/YourTwitter"><img width="32" src="https://i.imgur.com/OXZM1L6.png" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/trdaxy"><img width="32" src="https://i.imgur.com/qiXu7b2.png" alt="LinkedIn"/></a>
   &#8287;
-  <a href="https://linkedin.com/in/YourLinkedIn"><img width="32" src="https://i.imgur.com/qiXu7b2.png" alt="LinkedIn"/></a>
-  &#8287;
-  <a href="mailto:youremail@domain.com"><img width="32" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="ffathy2004@gmail.com"><img width="32" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ## 👋 Hi, I’m **Fares Fathy**  
 **Senior AI & Robotics student @ AAST**  
-– Leading CV & autonomy dev for UAV & FSAE driverless teams  
-– Financial modelling (Altman Z-score / Tobin’s Q) in MENA firms  
+– Leading CV & ROS for UAV SkyXperts team.  
+– CV member for AAM Driveless team  
 
 ---
 
 ## 🔥 GitHub Stats
 
 <p align="right">
-  <a href="https://github.com/USERNAME">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_title=true"/>
+  <a href="https://github.com/ffathy-tdx">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ffathy-tdx&show_icons=true&theme=radical&hide_title=true"/>
   </a>
-  <a href="https://github.com/USERNAME">
-    <img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_title=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <a href="https://github.com/ffathy-tdx">
+    <img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=ffathy-tdx&theme=radical&hide_title=true&date_format=M%20j%5B%2C%20Y%5D"/>
   </a>
 </p>
 
@@ -54,9 +52,9 @@ Here are some ideas to get you started:
 ## 📘 My Top Projects
 
 <p align="left">
-  <a href="https://github.com/USERNAME/AAM-CV-FSAE"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=AAM-CV-FSAE&theme=react" alt="AAM-CV-FSAE"/></a>
-  <a href="https://github.com/USERNAME/Wraith-UAV-development"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=Wraith-UAV-development&theme=react" alt="Wraith-UAV-development"/></a>
-  <a href="https://github.com/USERNAME/cubot"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=cubot&theme=react" alt="cubot"/></a>
+  <a href="https://github.com/ffathy-tdx/AAM-CV-FSAE"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=AAM-CV-FSAE&theme=react" alt="AAM-CV-FSAE"/></a>
+  <a href="https://github.com/ffathy-tdx/Wraith-UAV-development"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=Wraith-UAV-development&theme=react" alt="Wraith-UAV-development"/></a>
+  <a href="https://github.com/ffathy-tdx/cubot"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=cubot&theme=react" alt="cubot"/></a>
 </p>
 
 ---
