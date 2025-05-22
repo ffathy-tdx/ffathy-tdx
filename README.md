@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔥 GitHub Stats
+## GitHub Stats
 
 <p align="right">
   <a href="https://github.com/ffathy-tdx">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📘 My Top Projects
+## My Top Projects
 
 <p align="left">
   <a href="https://github.com/ffathy-tdx/AAM-CV-FSAE"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=AAM-CV-FSAE&theme=react" alt="AAM-CV-FSAE"/></a>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>🗂️ Other Notable Repos</summary>
+  <summary>Other Notable Repos</summary>
   
   - **ROS-Package-for-Real-Time-Camera-Image-Sharpening** – real-time image sharpening in ROS  
   - **Docker-Practice** – AI-in-Web course exercises with Docker  
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 ---
 
-<sup>Last updated on: <!-- ⚡ -->  
+<sup>Last updated on: 22, May 2025 
 
 <p align="center">
   <img src="assets/BWKhB3l.gif" alt="Cool GIF" width="100%" />
