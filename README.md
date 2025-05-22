@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://linkedin.com/in/trdaxy"><img width="32" src="https://i.imgur.com/OQUXwNp.jpeg" alt="LinkedIn"/></a>
   &#8287;
-  <a href="ffathy2004@gmail.com"><img width="32" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="ffathy2004@gmail.com"><img width="100%" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ## 👋 Hi, I’m **Fares Fathy**  
