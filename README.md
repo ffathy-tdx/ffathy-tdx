@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/iTjYrFT.jpeg" width="100%" alt="Banner"/>
+  <img src="https://i.imgur.com/isE1eRe.jpeg" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
