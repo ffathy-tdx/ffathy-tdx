@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 ---
 
-<sup>Last updated on: 22, May 2025 
+<sup>Last updated on: May 23rd, 2025
 
 <p align="center">
   <img src="assets/BWKhB3l.gif" alt="Cool GIF" width="100%" />
