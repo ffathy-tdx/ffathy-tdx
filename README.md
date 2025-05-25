@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 
 ## Hey hey, I’m **Fares Fathy**  
 **Senior AI & Robotics student @ AAST**  
-– Leading CV & ROS for UAV SkyXperts team.  
-– CV member for AAM Driveless team  
+- Head of Computer Vision & ROS Teams – **UAV SkyXperts Team** 🛩️  
+- Computer Vision Engineer – **AAM Driverless Team** 🚗
+- Passionate about AI, robotics, and building autonomous systems.
+
 
 ---
 
