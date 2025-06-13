@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 ---
 
-<sup>Last updated on: May 25rd, 2025
+<sup>Last updated on: June 14th, 2025
 
 <p align="center">
   <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
