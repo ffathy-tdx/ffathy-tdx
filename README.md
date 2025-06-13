@@ -87,6 +87,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://media2.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="50%"/>
-  <br>
   <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%"/>
 </p>
