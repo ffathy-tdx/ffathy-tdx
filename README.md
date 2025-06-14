@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://linkedin.com/in/trdaxy"><img width="32" src="https://i.imgur.com/OQUXwNp.jpeg" alt="LinkedIn"/></a>
+  &#8287;
+  <a href="ffathy2004@gmail.com"><img width="64" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 -->
 <!--
   👉 Replace USERNAME below with your GitHub username!
@@ -21,11 +26,7 @@ Here are some ideas to get you started:
   <img src="assets/cat2.jpeg" width="100%" alt="Banner"/>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/trdaxy"><img width="32" src="https://i.imgur.com/OQUXwNp.jpeg" alt="LinkedIn"/></a>
-  &#8287;
-  <a href="ffathy2004@gmail.com"><img width="64" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+
 
 ## Hey hey, I’m **Fares Fathy**  
 **Senior AI & Robotics student @ AAST**  
