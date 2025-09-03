@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 ## Hey hey, I’m **Fares Fathy**  
-**Senior AI & Robotics student @ AAST**  
-- Head of Computer Vision & ROS Teams – **UAV SkyXperts Team** 🛩️  
+**Research Assistant @AASTMT R&D Center**  
+- Software Mentor | Former CTO & Head of Computer Vision & ROS Teams – **UAV SkyXperts Team** 🛩️  
 - Computer Vision Engineer – **AAM Driverless Team** 🚗
 - Passionate about AI, robotics, and building autonomous systems.
 
