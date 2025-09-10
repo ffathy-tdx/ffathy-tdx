@@ -1,8 +1,8 @@
 <p align="center">
   <img src="assets/cat2.jpeg" width="100%" alt="Banner"/>
 </p>
-<h1 align="center"><b>Hey hey, I'm Fares Fathy</b><br>What I cannot create, I do not understand  </h1>
-
+<h1 align="center"><b>Fares Fathy</b></h1>
+<p align="center"><i>What I cannot create, I do not understand</i></p>
 ---
 
 <table>
