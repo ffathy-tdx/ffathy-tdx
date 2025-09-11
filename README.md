@@ -62,6 +62,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
 <!-- Robotics -->
 ![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white)
@@ -70,6 +71,7 @@
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-0093DD?style=for-the-badge&logo=arduino&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-Ignition-2D2D2D?style=for-the-badge&logo=OpenRobotics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 <!-- DevOps / Deployment -->
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
