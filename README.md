@@ -13,7 +13,7 @@
 ### About Me  
 
 - 🎓 **B.Sc. in Artificial Intelligence (Intelligent Systems Major), 2025** – *Arab Academy for Science, Technology & Maritime Transport* (*Excellent with Honors*)
-- 👨‍🏫 **Teaching Assistant** – AASTMT, College of Artifical Intelligence
+- 👨‍🏫 **Teaching Assistant** – AASTMT, College of Artificial Intelligence
 - 👔 **Research Assistant** – *AASTMT R&D Center*  
 - 🛩️ **Software Mentor** | Former **CTO** & **Head of Computer Vision & ROS Teams** – *SkyXperts UAVs Team*  
 - 🚗 **Computer Vision Mentor** | Former **Computer Vision Engineer** – *AAM Driverless Team*  
