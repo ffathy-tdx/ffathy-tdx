@@ -9,16 +9,19 @@
 <table>
 <tr>
 <td width="70%">
-  
-### About me  
 
-- 🎓 **Research Assistant** @ AASTMT R&D Center  
-- 🛩️ Software Mentor | Former CTO & Head of Computer Vision & ROS Teams – **UAV SkyXperts Team**  
-- 🚗 Computer Vision Engineer – **AAM Driverless Team**  
-- 🤖 Passionate about AI, robotics, and building autonomous systems  
-- 📚 Currently diving deeper into **autonomous navigation** & **AI in robotics**  
-- 💡 Always open to collaboration in AI, CV, and robotics projects  
-- 📫 Reach me at: <a href="mailto:ffathy2004@gmail.com">ffathy2004@gmail.com</a>  
+### About Me  
+
+- 🎓 **B.Sc. in Artificial Intelligence (Intelligent Systems Major), 2025** – *Arab Academy for Science, Technology & Maritime Transport* (*Excellent with Honors*)
+- 👨‍🏫 **Teaching Assistant** – AASTMT, College of Artifical Intelligence
+- 👔 **Research Assistant** – *AASTMT R&D Center*  
+- 🛩️ **Software Mentor** | Former **CTO** & **Head of Computer Vision & ROS Teams** – *SkyXperts UAVs Team*  
+- 🚗 **Computer Vision Mentor** | Former **Computer Vision Engineer** – *AAM Driverless Team*  
+- 🤖 **Passionate about AI, robotics, and building autonomous systems**  
+- 📚 **Currently exploring autonomous navigation & AI in robotics**  
+- 💡 **Open to collaborations** in AI, Computer Vision, and Robotics projects  
+- 📫 **Contact me:** <a href="mailto:ffathy2004@gmail.com">ffathy2004@gmail.com</a>  
+
 
 </td>
 <td width="30%" align="center" valign="middle">
