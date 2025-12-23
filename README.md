@@ -84,9 +84,9 @@
 ### My Top Projects on GitHub  
 
 <p align="center">
-  <a href="https://github.com/ffathy-tdx/RCNN-Brain-CT-Image-Classification"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=RCNN-Brain-CT-Image-Classification&theme=react" alt="RCNN-Brain-CT-Image-Classification"/></a>
+  <a href="https://github.com/ffathy-tdx/egyptian-anpr-easyocr"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=egyptian-anpr-easyocr&theme=react" alt="RCNN-Brain-CT-Image-Classification"/></a>
   <a href="https://github.com/ffathy-tdx/Wraith-UAV-development"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=Wraith-UAV-development&theme=react" alt="Wraith-UAV-development"/></a>
-  <a href="https://github.com/ffathy-tdx/cubot"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=cubot&theme=react" alt="cubot"/></a>
+  <a href="https://github.com/ffathy-tdx/Pixel-Sorting-Python"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=Pixel-Sorting-Python&theme=react" alt="Pixel Sorting Python"/></a>
 </p>
 
 <details>
@@ -120,7 +120,7 @@
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ffathy-tdx&theme=radical&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffathy-tdx&theme=radical&hide_border=false" alt="ffathy-tdx streak"/>
+    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=ffathy-tdx&theme=radical&hide_border=false" alt="ffathy-tdx streak"/-->
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffathy-tdx&theme=radical&hide_border=false&langs_count=10"/>
