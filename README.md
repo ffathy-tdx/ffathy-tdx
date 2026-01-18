@@ -113,22 +113,6 @@
 
 ---
 
-### GitHub Stats  
-
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ffathy-tdx&theme=radical&show_icons=true&count_private=true" />
-    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=ffathy-tdx&theme=radical&hide_border=false" alt="ffathy-tdx streak"/-->
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffathy-tdx&theme=radical&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-
 
 
 <img width="1024" alt="Banner" src="https://github.com/user-attachments/assets/be25f12a-0746-415a-b910-8a60af4167c7">
