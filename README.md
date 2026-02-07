@@ -81,14 +81,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ---
 
-### My Top Projects on GitHub  
-
-<p align="center">
-  <a href="https://github.com/ffathy-tdx/egyptian-anpr-easyocr"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=egyptian-anpr-easyocr&theme=react" alt="RCNN-Brain-CT-Image-Classification"/></a>
-  <a href="https://github.com/ffathy-tdx/Wraith-UAV-development"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=Wraith-UAV-development&theme=react" alt="Wraith-UAV-development"/></a>
-  <a href="https://github.com/ffathy-tdx/Pixel-Sorting-Python"><img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=ffathy-tdx&repo=Pixel-Sorting-Python&theme=react" alt="Pixel Sorting Python"/></a>
-</p>
-
 <details>
   <summary>Other Notable Repos I'm working on</summary>
   
